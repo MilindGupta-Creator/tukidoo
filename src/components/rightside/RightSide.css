@@ -1,0 +1,140 @@
+
+
+.less{
+    background-color: #e8f0ed;
+    border-style: none;
+    padding: 8px;
+    border-radius: 10px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-between; /* Positions nav1 and nav2 at opposite ends */
+    align-items: center; /* Centers content vertically within the container */
+   
+  }
+
+.nav1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1rem;
+    gap: 5px;
+}
+
+.call{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+
+}
+
+.nav2{
+    position: absolute;
+    right: 0;
+    margin-right: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.3rem;
+            
+}
+
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5rem;
+    background-color: #e8f0ed;
+    height: 7vh;
+    width: 83vw;
+    margin-left: 1.5rem;
+    border-top-right-radius: 18px;
+    border-top-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    padding: 10px;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btnv{
+    display: flex;
+    align-items: center;
+    height: 7vh;
+    justify-content: center;
+    background-color: white !important;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 25px;
+}
+
+.panel{
+    display: flex;
+}
+
+.learnerScreen{
+    margin-top: 1rem;
+    width: 30vw;
+}
+
+.videoscreen{
+    margin-top: 1rem;
+    width: 60vw;
+   
+}
+
+.student {
+    width: 100%; /* Adjust the width as needed */
+    max-width: 250px; /* Set a maximum width if necessary */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 18px; /* Apply rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+    display: block; /* Remove any default inline alignment */
+    margin: 0 auto; /* Center the image within its container */
+  }
+
+.teacher{
+    width: 100%; /* Adjust the width as needed */
+    max-width: 250px; /* Set a maximum width if necessary */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 18px; /* Apply rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+    display: block; /* Remove any default inline alignment */
+    margin: 0 auto; /* Center the image within its container */
+    margin-top: 1rem;
+}
+
+.icons{
+    background-color: #e8f0ed;
+    padding: 0.6rem;
+    border-radius: 10px;
+}
+
+.icon-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(calc(33%), 1fr)); /* Adjust the width as needed */
+    gap: 0px; /* Adjust the gap as needed */
+    justify-content: space-around; /* Adjust as needed */
+
+  }
+ 
+
+  .icon-container p {
+    margin: 0px;
+  }
+  .riddhi{
+    position: absolute;
+    bottom: 0;
+    left: 4rem;
+    margin: 0;
+    padding: 10px; /* Optional: Add some padding to the text */
+    background-color: rgba(255, 255, 255, 0.9); /* Optional: Add a semi-transparent background */
+    border-top-right-radius: 15px;
+  }
