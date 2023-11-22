@@ -1,3 +1,30 @@
+# live link: https://655e0bdde58f3b32ae00c914--tukidooassgn.netlify.app/
+
+# Tukidoo Front Page Design Documentation
+
+## Design Decisions
+
+* **Simplicity and Scannability:** The Tukidoo front page is designed to be simple and easy to scan. The white background and clean layout make it easy to see what's important.
+
+* **Content Prioritization:** The most important content on the front page, such as the Videos Feed and Slideshow, is placed on the top of the screen. This ensures that users see it first.
+
+* **Visual Hierarchy:** The use of different colors, sizes, and weights of text creates a visual hierarchy that guides users' attention. For example, important icons are present on the left bar.
+
+* **Use of White Space:** White space is used generously throughout the front page to make it feel less cluttered and more inviting.
+
+## Assumptions
+
+* **Users are familiar with Tukidoo's interface:** The designers assumed that users would be familiar with the basic layout and functionality of Tukidoo, so they didn't need to label everything explicitly.
+
+
+* **Users are visually literate:** The designers used visual cues, such as icons and colors, to communicate information to users.
+
+* **Users have a high-speed internet connection:** The designers assumed that users would have a high-speed internet connection so that they can easily have a video conference and video stream service available to them.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
